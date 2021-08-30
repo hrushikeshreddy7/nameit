@@ -2,7 +2,7 @@
   "name": "nameit",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://hrushikeshreddy7.github.io/nameit/",
+  "homepage": "https://github.com/hrushikeshreddy7/nameit",
   "dependencies": {
     "@rstacruz/startup-name-generator": "github:rstacruz/startup-name-generator",
     "@testing-library/jest-dom": "^5.11.4",
